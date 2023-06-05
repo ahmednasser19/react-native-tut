@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: "#F37453",
     borderRadius: SIZES.medium,
+    marginBottom: SIZES.small,
     justifyContent: "center",
     alignItems: "center",
   },
@@ -35,6 +36,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     marginLeft: SIZES.medium,
+    marginBottom: SIZES.small,
     borderRadius: SIZES.medium,
   },
   applyBtnText: {
